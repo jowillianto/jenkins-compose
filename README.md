@@ -10,3 +10,6 @@ The path to the TLS certificate.
 
 ### `DOCKER_HOST`
 The name of the dind image. 
+
+## Setting Up
+To setup Jenkins, go to `http://localhost:8080` to check the deployment. You might be asked to get a generated password, this password will be printed in the terminal.
